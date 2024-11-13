@@ -10,3 +10,6 @@ unitários chamado "test_calculadora.py"
 3) Executar o arquivo 
 de testes unitários
 -comando no terminal: python test_calculadora.py
+
+4) Criar o arquivo a ser testado
+chamado "calculadoraIMC.py"
