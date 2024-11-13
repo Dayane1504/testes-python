@@ -1,6 +1,6 @@
 class CalculadoraIMC:
 
-    def resultado(peso, altura):
+    def resultado(self, peso, altura):
         imc = peso/ (altura * altura)
         if imc < 19:
             return "magreza"
